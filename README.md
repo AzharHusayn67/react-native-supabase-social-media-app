@@ -101,9 +101,6 @@ With a SocialNode license, the package includes:
 - README
 - Clean project structure
 
-## 🎬 Demo
-
-Add SocialNode screenshots and demo video here.
 
 ## 🛒 Get SocialNode
 
